@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab164d8d-8f58-4fcf-9169-90077f810c9e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../GEOMETRY-APP/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GEOMETRY-APP/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GEOMETRY-APP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GEOMETRY-APP/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GEOMETRY-APP/src/main/java/com/aditya/shapecorelibrary/GeometryUtilsImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GEOMETRY-APP/src/main/java/com/aditya/shapecorelibrary/Shape3DImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GEOMETRY-APP/src/main/java/com/aditya/shapecorelibrary/ShapeLibraryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GEOMETRY-UTILS/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GEOMETRY-UTILS/src/main/java/com/aditya/GeometryUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geometry-3d-core/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geometry-3d-core/src/main/java/com/aditya/contract/Shape3DContract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geometry-3d-core/src/main/java/com/aditya/implementation/RectangularPrism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shape-library-core/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shape-library-core/src/main/java/org/aditya/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shape-library-core/src/main/java/org/aditya/contract/ShapeContract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shape-library-core/src/main/java/org/aditya/shapes/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shape-library-core/src/main/java/org/aditya/shapes/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shape-library-core/src/main/java/org/aditya/shapes/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/aditya/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="c33ce11b-f11e-42ea-bb19-9f6fee2c6591" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="3CfdI0KA1KdgdlUb2qb2T2ynxg6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/adi/Assignments/ITKEDU_ASSIGNMENT/GEOMETRY_LIBRARY",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/home/adi/Assignments/ITKEDU_ASSIGNMENT/GEOMETRY_LIBRARY/geometry-3d-core/src/main/java/com/aditya/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab164d8d-8f58-4fcf-9169-90077f810c9e" name="Changes" comment="" />
+      <created>1776780477216</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776780477216</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/aditya/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
